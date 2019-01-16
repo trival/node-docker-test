@@ -1,0 +1,12 @@
+{
+  "name": "docked-node",
+  "version": "1.0.0",
+  "description": "simple setup for a nodejs app in docker / dokku",
+  "main": "index.js",
+  "author": "Thomas Gorny",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-route": "^3.2.0"
+  }
+}
