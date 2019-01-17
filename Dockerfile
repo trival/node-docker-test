@@ -1,1 +1,6 @@
 FROM node:8-alpine
+
+ENV PORT 3000
+
+EXPOSE ${PORT}
+
